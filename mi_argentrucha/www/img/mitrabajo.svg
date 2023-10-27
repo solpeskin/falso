@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="112" viewBox="0 0 112 112">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: #bfd730;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke: #bfd730;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="mitrabajo" transform="translate(-1168 -534)">
+    <g id="misalud" transform="translate(1168.226 534)">
+      <circle id="Elipse_1" data-name="Elipse 1" class="cls-1" cx="56" cy="56" r="56" transform="translate(-0.226)"/>
+    </g>
+    <g id="Grupo_3" data-name="Grupo 3" transform="translate(240 -1)">
+      <g id="maletin-check" transform="translate(951 557.3)">
+        <path id="Trazado_1" data-name="Trazado 1" class="cls-2" d="M53.449,46.453a13.6,13.6,0,0,1,5.579-1.125V18.878a5.427,5.427,0,0,0-5.579-5.261H45.586l-.715-5.056A6.047,6.047,0,0,0,38.655,2.7H24a6.027,6.027,0,0,0-4.137,1.619,5.354,5.354,0,0,0-1.706,3.905L17.6,13.588H9.563A5.44,5.44,0,0,0,4,18.863V50.544a5.2,5.2,0,0,0,5.346,5.041h36.24a12.667,12.667,0,0,1,3.2-5.861A16.639,16.639,0,0,1,53.449,46.453ZM21.87,8.224C21.928,6.87,22.564,6.153,24,6.2H39a2.229,2.229,0,0,1,2.324,2.359l-.8,5.056-17.99-.029Z" transform="translate(0)"/>
+        <path id="Trazado_2" data-name="Trazado 2" class="cls-2" d="M43.322,33.62c-6.059,0-10.971,4.632-10.972,10.345s4.912,10.345,10.972,10.345,10.971-4.632,10.972-10.345S49.377,33.628,43.322,33.62ZM42.094,49.182h0l-5.626-6.609,1.989-1.656,3.559,3.37,6.216-5.231,1.9,1.553Z" transform="translate(15.707 14.389)"/>
+      </g>
+      <g id="Grupo_2" data-name="Grupo 2" transform="translate(0 -1)">
+        <g id="Grupo_1" data-name="Grupo 1">
+          <path id="Trazado_3" data-name="Trazado 3" class="cls-3" d="M0,0S13.661,6.035,27.418,6.035a64.888,64.888,0,0,0,14.335-1.8A83.549,83.549,0,0,0,55.029,0" transform="translate(955 583.442)"/>
+          <line id="Línea_1" data-name="Línea 1" class="cls-3" y2="17" transform="translate(967.5 587.5)"/>
+          <path id="Trazado_5" data-name="Trazado 5" class="cls-3" d="M0-.006V17" transform="translate(998.5 587.5)"/>
+          <line id="Línea_2" data-name="Línea 2" class="cls-3" y2="2" transform="translate(967.5 607.5)"/>
+        </g>
+        <g id="Rectángulo_1" data-name="Rectángulo 1" class="cls-4" transform="translate(978 589)">
+          <path class="cls-6" d="M0,0H10a0,0,0,0,1,0,0V6A3,3,0,0,1,7,9H3A3,3,0,0,1,0,6V0A0,0,0,0,1,0,0Z"/>
+          <path class="cls-7" d="M1,1H9A0,0,0,0,1,9,1V6A2,2,0,0,1,7,8H3A2,2,0,0,1,1,6V1A0,0,0,0,1,1,1Z"/>
+        </g>
+        <g id="Rectángulo_2" data-name="Rectángulo 2" class="cls-5" transform="translate(977 587)">
+          <rect class="cls-6" width="12" height="4"/>
+          <rect class="cls-7" x="0.25" y="0.25" width="11.5" height="3.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
